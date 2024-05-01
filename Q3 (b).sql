@@ -1,4 +1,4 @@
-SELECT c.ContactName, COUNT(*)
+SELECT c.ContactName, COUNT(*) OrderNo
 FROM dbo.Customers c
 JOIN dbo.Orders o
 ON c.CustomerID = o.CustomerID
