@@ -1,0 +1,13 @@
+ProductID,ProductName,SupplierID,CategoryID,QuantityPerUnit,UnitPrice,UnitsInStock,UnitsOnOrder,ReorderLevel,Discontinued
+10,Ikura,4,8,12 - 200 ml jars,31.00,31,0,0,0
+13,Konbu,6,8,2 kg box,6.00,24,0,5,0
+18,Carnarvon Tigers,7,8,16 kg pkg.,62.50,42,0,0,0
+30,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.89,10,0,15,0
+36,Inlagd Sill,17,8,24 - 250 g  jars,19.00,112,0,20,0
+37,Gravad lax,17,8,12 - 500 g pkgs.,26.00,11,50,25,0
+40,Boston Crab Meat,19,8,24 - 4 oz tins,18.40,123,0,30,0
+41,Jack's New England Clam Chowder,19,8,12 - 12 oz cans,9.65,85,0,10,0
+45,Rogede sild,21,8,1k pkg.,9.50,5,70,15,0
+46,Spegesild,21,8,4 - 450 g glasses,12.00,95,0,0,0
+58,Escargots de Bourgogne,27,8,24 pieces,13.25,62,0,20,0
+73,Röd Kaviar,17,8,24 - 150 g jars,15.00,101,0,5,0
