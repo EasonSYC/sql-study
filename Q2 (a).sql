@@ -1,4 +1,5 @@
 SELECT p.*
-FROM dbo.Products p, dbo.Categories c
-WHERE p.CategoryID = c.CategoryID
-AND c.CategoryName = 'Seafood'
+FROM dbo.Products p
+JOIN dbo.Categories c
+ON p.CategoryID = c.CategoryID
+WHERE c.CategoryName = 'Seafood'

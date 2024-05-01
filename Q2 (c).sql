@@ -1,4 +1,5 @@
 SELECT o.*
-FROM dbo.Orders o, dbo.Customers c
-WHERE o.CustomerID = c.CustomerID
-AND c.Country = 'France'
+FROM dbo.Orders o
+JOIN dbo.Customers c
+ON o.CustomerID = c.CustomerID
+WHERE c.Country = 'France'
